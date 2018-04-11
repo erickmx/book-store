@@ -1,2 +1,2 @@
 # book-store
-a sales system for a bookstore
+a sales system for a book store
